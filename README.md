@@ -1,6 +1,6 @@
 # Gemini-Clone
 
-Hello, my name is **Aarya Diwan** and this is a demo project for a Google Gemini prototype. This project is built using JavaScript, HTML, CSS, Node.js, React.js, and other required technologies.
+Hello, everyone I am **Aarya Diwan** and this is my project of a Google Gemini prototype. This project is built using JavaScript, HTML, CSS, Node.js, React.js, and other technologies.
 
 ## Project Description
 
