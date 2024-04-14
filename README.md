@@ -13,7 +13,6 @@ This project is a prototype of Google Gemini. It uses the Google Gemini API to p
 - CSS
 - Node.js
 - React.js
-- [Any other technologies used]
 
 ## Setup and Installation
 
